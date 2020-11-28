@@ -1,8 +1,8 @@
 <html>
 	<head>
 		<title>aniyo</title>
-			<link rel="stylesheet" type="text/css" href="css/style.css"/>
-			<link rel="stylesheet" type="text/js" href="js/style.js"/>
+			<link rel="stylesheet" type="text/css" href="style.css"/>
+			<link rel="stylesheet" type="text/js" href="style.js"/>
 <div class="burger text-center">
   <h1></h1>
   <div class="topBun"><img  src="https://res.cloudinary.com/j0513/image/upload/v1489587412/TOP_Bun_rxyjqd.png" alt="Top bun">
