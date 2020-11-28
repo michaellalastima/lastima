@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>aniyo</title>
+		<title>LASTIMA</title>
 			<link rel="stylesheet" type="text/css" href="style.css"/>
 			<link rel="stylesheet" type="text/js" href="style.js"/>
 <div class="burger text-center">
